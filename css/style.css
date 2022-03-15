@@ -1,0 +1,42 @@
+.ttl {
+  color: rgb(28, 28, 138);
+  display: inline-block;
+  margin-right: 760px;
+}
+.menu {
+  display: inline-block;
+  color: rgb(28, 28, 138);
+  text-decoration: none;
+  padding-left: 25px;
+  font-size: small;
+  font-weight: bold;
+}
+.mainiti {
+  margin-bottom: -250px;
+  margin-top: 270px;
+  font-size: 50px;
+}
+
+.kasane__ao {
+  width: 100px;
+  height: 50px;
+  background: rgb(28, 28, 138);
+  padding-right: 900px;
+  padding-bottom: 100px;
+  position: absolute;
+  z-index: 10;
+  top: 250px;
+}
+
+.kasane {
+  position: relative;
+}
+
+.kasane__img {
+  display: block;
+  width: 40%;
+  right: 1px;
+
+  position: absolute;
+  z-index: 30;
+}
